@@ -1,0 +1,23 @@
+module ALU(A,B,ctrl,out,cout);
+parameter k=16;
+input [k-1:0]A,B;
+input ctrl;
+wire [k-1:0]y;
+output [k-1:0]out;
+output cout;
+
+genvar i;
+
+generate for (i=0;i<k;i=i+1)
+begin: as_loop
+
+xor(y[i],ctrl,B[i]);
+
+end
+endgenerate
+
+assign {cout,out}=A+y+ctrl;
+
+endmodule
+
+

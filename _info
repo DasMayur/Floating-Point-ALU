@@ -1,0 +1,46 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Quartus programmes\Computer architecture\Special Assignment\ALU\simulation\modelsim
+vALU
+!i10b 1
+!s100 J=R2FS:acETbR]GYR7?Ha0
+IJ67YkDmJ<:TV?_f@WaCen3
+VXB<6[X406LaAYHXT2O@?e1
+Z1 dD:\Quartus programmes\Computer architecture\Special Assignment\ALU\simulation\modelsim
+Z2 w1681627103
+Z3 8D:/Quartus programmes/Computer architecture/Special Assignment/ALU/ALU.v
+Z4 FD:/Quartus programmes/Computer architecture/Special Assignment/ALU/ALU.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1681627162.384000
+Z7 !s107 D:/Quartus programmes/Computer architecture/Special Assignment/ALU/ALU.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus programmes/Computer architecture/Special Assignment/ALU|D:/Quartus programmes/Computer architecture/Special Assignment/ALU/ALU.v|
+!s101 -O0
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work {+incdir+D:/Quartus programmes/Computer architecture/Special Assignment/ALU} -O0
+n@a@l@u
+vm41
+!i10b 1
+!s100 7=^>:II^b?KTE?nmlIbc@3
+I2CZ_GZO]9R=kKa03e3KbA3
+Vl;7J2VBKbM@6C<OV?XCnD0
+R1
+R2
+R3
+R4
+L0 54
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
